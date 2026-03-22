@@ -74,7 +74,7 @@ Each team member completed two components.
 3. Run the provided scripts or notebooks  
 
 ## Repository
-(Add your GitHub link here)
+(https://github.com/hethaputane/Project-thinkTank)
 
 ## Authors
 - Your Name  
